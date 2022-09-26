@@ -36,9 +36,21 @@ B:
     
   * How does the elevator support the user to figure out how to make it work?:
       
+      Support to operate the elevator is added by the button layout. Starting with 1 on the bottom and going up to 5 stack concurrently on top of each other.
+      
   * How does the elevator provide feedback to the user?
+  
+      The buttons provide feedback to the user by flashing red when button is clicked. No other feedback is provided.
+      
   * What are some common mistakes you can make with this current design?:
+  
+      Mistakes can be made with the arangement of the door operation buttons. The design of the button layout can allow for the activation of the incorrect button due to spacing of buttons. The user will also require more time to activate the close door feature on the interface if the user has never used an elevator. **********fix ***********
+      
   * Suggest the improvements to make on the control interface. Sketch your solution:
+  
+  Solutions:
+  
+  
   
 A: 
   * Come with your design for the touch screen? What is the screen size that you want?
