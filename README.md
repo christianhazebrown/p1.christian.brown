@@ -16,6 +16,7 @@ C:
       * Lots of empty unused space.
   
   * Explain why it is good/bad:
+    Most of these issues are very small issues where the bad does weight on the overall interface. With a bunch of empty space doesnt allow infomation to take the users attention while riding the elevator
     
 
 B: 
@@ -48,12 +49,13 @@ B:
       
   * Suggest the improvements to make on the control interface. Sketch your solution:
   
-  Solutions:
+  Solutions: Use plain language to help the user understand the open/close doors faster. Take up the extra space and fill with useful infomation, such as date, time, weather, news and ect. 
   
   
   
 A: 
   * Come with your design for the touch screen? What is the screen size that you want?
+    I decided to go woth a 680x800px screen size to allow for easy fitment of the interface on the elevator control pannel.
   * Design and implement interactive features:
   * Design and implement user feedback:
   * You use Processing for this project:
