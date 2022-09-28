@@ -16,11 +16,12 @@ C:
       * Lots of empty unused space.
   
   * Explain why it is good/bad:
+    
     Most of these issues are very small issues where the bad does weight on the overall interface. With a bunch of empty space doesnt allow infomation to take the users attention while riding the elevator
     
 
 B: 
-  * List your most common uses and other more rare uses. Does the interface make doing those common things        easier?:![gif of interface in use](https://user-images.githubusercontent.com/61254256/192673105-c082b917-4073-40e0-873c-bc720601aa61.gif)
+  * List your most common uses and other more rare uses. Does the interface make doing those common things        easier?:
 
   
       Common uses:
@@ -52,7 +53,8 @@ B:
   
   Solutions: Use plain language to help the user understand the open/close doors faster. Take up the extra space and fill with useful infomation, such as date, time, weather, news and ect. 
   
-  ![gif of interface in use](https://user-images.githubusercontent.com/61254256/192673134-a64d97a5-61d2-4371-a3e2-ca7804f9f0c0.gif)
+  ![IMG_0086](https://user-images.githubusercontent.com/61254256/192673333-51c64814-1fe7-453a-adf2-132128dadbd3.jpg)
+
 
   
 A: 
