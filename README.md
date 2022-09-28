@@ -6,8 +6,8 @@ Project Description:
 We use elevators everyday. They have various designs for user controls but not all of them are designed at the best for users. 
 
 C:
-  * ![Interface picture](https://user-images.githubusercontent.com/61254256/192186289-45552119-1344-4181-91fc-ef2f98551c4a.jpg)
-  * ![Using interface gif](https://user-images.githubusercontent.com/61254256/192186304-bafd7498-2ae6-4486-8a44-4dafca3a2466.gif)
+  * <img src="https://user-images.githubusercontent.com/61254256/192186289-45552119-1344-4181-91fc-ef2f98551c4a.jpg" width=50% >
+  * <img src="https://user-images.githubusercontent.com/61254256/192186304-bafd7498-2ae6-4486-8a44-4dafca3a2466.gif" width=50% height=25%>
 
   * Find the issues with the current design:
       * More inofmation is available for life outside of the elevator. (Ex. weather, news, time, ect.)
