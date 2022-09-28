@@ -47,7 +47,7 @@ B:
       
   * What are some common mistakes you can make with this current design?:
   
-      Mistakes can be made with the arangement of the door operation buttons. The design of the button layout can allow for the activation of the incorrect button due to spacing of buttons. The user will also require more time to activate the close door feature on the interface if the user has never used an elevator. **********fix ***********
+      Mistakes can be made with the arangement of the door operation buttons. The design of the button layout can allow for the activation of the incorrect button due to spacing of buttons. The user will also require more time to activate the close door feature on the interface if the user has never used an elevator.
       
   * Suggest the improvements to make on the control interface. Sketch your solution:
   
@@ -66,9 +66,5 @@ A:
     
     ![gif of interface in use](https://user-images.githubusercontent.com/61254256/192671809-1073dd36-fa3e-402b-acde-4a86f5a8c678.gif)
     
-    
-    
-  * Design and implement interactive features:
-  * Design and implement user feedback:
-  * You use Processing for this project:
+   
 
