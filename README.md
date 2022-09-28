@@ -2,7 +2,7 @@
 Project presentation for project 1 of CS 3366 Human Computer Interaction
 
 Project Description:
-  The purpose of this project is to give you some practice with the material in the design of everyday things.
+  The purpose of this project is to redsign an elevator interface to be more user friendly and display more infomation on the interface.
 We use elevators everyday. They have various designs for user controls but not all of them are designed at the best for users. 
 
 C:
@@ -20,7 +20,8 @@ C:
     
 
 B: 
-  * List your most common uses and other more rare uses. Does the interface make doing those common things        easier?:
+  * List your most common uses and other more rare uses. Does the interface make doing those common things        easier?:![gif of interface in use](https://user-images.githubusercontent.com/61254256/192673105-c082b917-4073-40e0-873c-bc720601aa61.gif)
+
   
       Common uses:
       
@@ -51,11 +52,21 @@ B:
   
   Solutions: Use plain language to help the user understand the open/close doors faster. Take up the extra space and fill with useful infomation, such as date, time, weather, news and ect. 
   
-  
+  ![gif of interface in use](https://user-images.githubusercontent.com/61254256/192673134-a64d97a5-61d2-4371-a3e2-ca7804f9f0c0.gif)
+
   
 A: 
+
   * Come with your design for the touch screen? What is the screen size that you want?
     I decided to go woth a 680x800px screen size to allow for easy fitment of the interface on the elevator control pannel.
+    
+    
+    
+    ![gif of interface in use](https://user-images.githubusercontent.com/61254256/192671809-1073dd36-fa3e-402b-acde-4a86f5a8c678.gif)
+    
+    
+    
   * Design and implement interactive features:
   * Design and implement user feedback:
   * You use Processing for this project:
+
